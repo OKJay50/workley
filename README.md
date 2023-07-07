@@ -1,4 +1,4 @@
-# Work Day Scheduler
+# Workley
 
 This is a simple work day scheduler web application that allows users to create and manage their daily schedule. The application provides time blocks for standard business hours (9 AM to 5 PM) and allows users to save events for each time block. The time blocks are color-coded to indicate whether they are in the past, present, or future. The saved events persist even after refreshing the page.
 
