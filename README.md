@@ -34,7 +34,7 @@ This is a simple work day scheduler web application that allows users to create 
 
 
 ## Screenshots
-(workley.png)
+![workley](workley.png)
 
 ## Contributing
 
